@@ -2,7 +2,8 @@
 - 👀 I’m interested in Embedded Software Development
 - 🌱 I’m currently learning Machine Learning
 
-I am using this GitHub repo for my personal coding projects. Of course they are set to Private!
+I am using this GitHub repo for my personal coding projects.
+My personal projects code are currently set to Private.
 
 <!---
 zarizi07/zarizi07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
